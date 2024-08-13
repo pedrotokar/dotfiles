@@ -1,0 +1,15 @@
+{
+    "servers": {
+        "python": {
+            "command": ["pylspenv", "%{Project:NativePath}"],
+            "url": "https://github.com/python-lsp/python-lsp-server",
+            "root": ".",
+            "highlightingModeRegex": "^Python$",
+            "settings": {
+	      "pylsp":{
+                    "pylsp.plugins.pycodestyle.enabled": false
+                }
+            }
+        }
+    }
+}

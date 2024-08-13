@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel>
+<xbel xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+ <folder href="file:///home/pedro/Downloads/Wizards RPG Team - Dungeons &amp; Dragons (D&amp;D 5e) - Livro do jogador.pdf">
+  <title>/home/pedro/Downloads/Wizards RPG Team - Dungeons &amp; Dragons (D&amp;D 5e) - Livro do jogador.pdf</title>
+  <bookmark href="file:///home/pedro/Downloads/Wizards%20RPG%20Team%20-%20Dungeons%20&amp;%20Dragons%20(D&amp;D%205e)%20-%20Livro%20do%20jogador.pdf#146;C2:0.500341:0.523233:1">
+   <title>Armas</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/pedro/Downloads/Wizards%20RPG%20Team%20-%20Dungeons%20&amp;%20Dragons%20(D&amp;D%205e)%20-%20Livro%20do%20jogador.pdf#94;C2:0.500341:0.260407:1">
+   <title>Mago</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+</xbel>

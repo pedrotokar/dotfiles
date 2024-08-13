@@ -1,0 +1,12 @@
+[Animation]
+Frames=18
+
+[Desktop Entry]
+DefaultProfile=Yakukake.profile
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+KeepOpen=false
+Width=80
